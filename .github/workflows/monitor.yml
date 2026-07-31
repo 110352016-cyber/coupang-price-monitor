@@ -2,9 +2,12 @@ name: Coupang Price Monitor
 
 on:
   workflow_dispatch:
-
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "17 * * * *"
+
+concurrency:
+  group: coupang-price-monitor
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -33,6 +36,7 @@ jobs:
         env:
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          TZ: Asia/Taipei
         run: |
           xvfb-run python monitor.py
 
@@ -40,9 +44,6 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-
           git add history.json
-
           git diff --cached --quiet || git commit -m "Update history"
-
           git push
