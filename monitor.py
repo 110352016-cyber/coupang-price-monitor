@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import re
 import time
+import os
 from dataclasses import dataclass
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -534,6 +535,13 @@ def run_once(config: dict[str, Any]) -> None:
 def main() -> None:
     config = CONFIG
     interval = int(config.get("monitor", {}).get("check_interval_seconds", 3600))
+
+    # GitHub Actions：只跑一次
+    if os.getenv("GITHUB_ACTIONS", "").lower() == "true":
+        run_once(config)
+        return
+
+    # MacBook：持續監控
     while True:
         run_once(config)
         try:
