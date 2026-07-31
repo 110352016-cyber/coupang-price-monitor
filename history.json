@@ -1,1 +1,704 @@
-{}
+{
+  "https://www.tw.coupang.com/products/Apple-iPhone-17-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-595388520120320": {
+    "name": "Apple iPhone 17 原廠保固, 黑色, 256GB",
+    "url": "https://www.tw.coupang.com/products/Apple-iPhone-17-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-595388520120320",
+    "base_price": 29900,
+    "last_price": 29900,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPhone"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPhone-17-Pro-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-595388528492549": {
+    "name": "Apple iPhone 17 Pro 原廠保固, 宇宙橙色, 256GB",
+    "url": "https://www.tw.coupang.com/products/Apple-iPhone-17-Pro-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-595388528492549",
+    "base_price": 37905,
+    "last_price": 37905,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPhone"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPhone-17-Pro-Max-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-595388536946694": {
+    "name": "Apple iPhone 17 Pro Max 原廠保固, 銀色, 256GB",
+    "url": "https://www.tw.coupang.com/products/Apple-iPhone-17-Pro-Max-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-595388536946694",
+    "base_price": 42655,
+    "last_price": 42655,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPhone"
+  },
+  "https://www.tw.coupang.com/products/Apple-%E5%8F%B0%E7%81%A3%E5%85%AC%E5%8F%B8%E8%B2%A8-2025-iPad-A16-11%E5%90%8B-MD3Y4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-545450406887426": {
+    "name": "Apple 台灣公司貨 2025 iPad A16 11吋 MD3Y4TA/A 原廠保固, Wi-Fi, 128GB, 銀色",
+    "url": "https://www.tw.coupang.com/products/Apple-%E5%8F%B0%E7%81%A3%E5%85%AC%E5%8F%B8%E8%B2%A8-2025-iPad-A16-11%E5%90%8B-MD3Y4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-545450406887426",
+    "base_price": 13822,
+    "last_price": 13822,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-11%E5%90%8B-MH304TA%2FA-668684489998340": {
+    "name": "Apple iPad Air M4 11吋 MH304TA/A, 太空灰色, 128GB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-11%E5%90%8B-MH304TA%2FA-668684489998340",
+    "base_price": 22900,
+    "last_price": 22900,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-%E5%8F%B0%E7%81%A3%E5%85%AC%E5%8F%B8%E8%B2%A8-2025-iPad-A16-11%E5%90%8B-MD4A4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-545450406887426": {
+    "name": "Apple 台灣公司貨 2025 iPad A16 11吋 MD4A4TA/A 原廠保固, Wi-Fi, 128GB, 藍色",
+    "url": "https://www.tw.coupang.com/products/Apple-%E5%8F%B0%E7%81%A3%E5%85%AC%E5%8F%B8%E8%B2%A8-2025-iPad-A16-11%E5%90%8B-MD4A4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-545450406887426",
+    "base_price": 14388,
+    "last_price": 14388,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-%E7%AC%AC%E5%8D%81%E4%BB%A3-10.9%E5%90%8B-MPQ83TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-497204175208452": {
+    "name": "Apple iPad 第十代 10.9吋 MPQ83TA/A 原廠保固, 銀色, 256GB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-%E7%AC%AC%E5%8D%81%E4%BB%A3-10.9%E5%90%8B-MPQ83TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-497204175208452",
+    "base_price": 16722,
+    "last_price": 16722,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-2025-iPad-A16-11%E5%90%8B-MD4G4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-545450406936578": {
+    "name": "Apple 2025 iPad A16 11吋 MD4G4TA/A 原廠保固, 銀色, 256GB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-2025-iPad-A16-11%E5%90%8B-MD4G4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-545450406936578",
+    "base_price": 17888,
+    "last_price": 17888,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-%E5%8F%B0%E7%81%A3%E5%85%AC%E5%8F%B8%E8%B2%A8-2025-iPad-A16-11%E5%90%8B-MD4E4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-545450406887426": {
+    "name": "Apple 台灣公司貨 2025 iPad A16 11吋 MD4E4TA/A 原廠保固, Wi-Fi, 128GB, 粉紅色",
+    "url": "https://www.tw.coupang.com/products/Apple-%E5%8F%B0%E7%81%A3%E5%85%AC%E5%8F%B8%E8%B2%A8-2025-iPad-A16-11%E5%90%8B-MD4E4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-545450406887426",
+    "base_price": 14388,
+    "last_price": 14388,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Air-M2-13%E5%90%8B-MV2Q3TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-496882606325762": {
+    "name": "Apple iPad Air M2 13吋 MV2Q3TA/A 原廠保固, 藍色, 1TB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Air-M2-13%E5%90%8B-MV2Q3TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-496882606325762",
+    "base_price": 36099,
+    "last_price": 36099,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-%E5%8F%B0%E7%81%A3%E5%85%AC%E5%8F%B8%E8%B2%A8-2025-iPad-A16-11%E5%90%8B-MD4D4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-545450406887426": {
+    "name": "Apple 台灣公司貨 2025 iPad A16 11吋 MD4D4TA/A 原廠保固, Wi-Fi, 128GB, 黃色",
+    "url": "https://www.tw.coupang.com/products/Apple-%E5%8F%B0%E7%81%A3%E5%85%AC%E5%8F%B8%E8%B2%A8-2025-iPad-A16-11%E5%90%8B-MD4D4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-545450406887426",
+    "base_price": 14388,
+    "last_price": 14388,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Air-M2-11%E5%90%8B-MUWT3TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-496882606374914": {
+    "name": "Apple iPad Air M2 11吋 MUWT3TA/A 原廠保固, 星光色, 1TB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Air-M2-11%E5%90%8B-MUWT3TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-496882606374914",
+    "base_price": 33077,
+    "last_price": 33077,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Air-M2-13%E5%90%8B-MV2P3TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-496882606325762": {
+    "name": "Apple iPad Air M2 13吋 MV2P3TA/A 原廠保固, 太空灰色, 1TB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Air-M2-13%E5%90%8B-MV2P3TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-496882606325762",
+    "base_price": 36099,
+    "last_price": 36099,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-2025-iPad-A16-11%E5%90%8B-MD4H4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-545450406936578": {
+    "name": "Apple 2025 iPad A16 11吋 MD4H4TA/A 原廠保固, 藍色, 256GB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-2025-iPad-A16-11%E5%90%8B-MD4H4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-545450406936578",
+    "base_price": 17888,
+    "last_price": 17888,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-11%E5%90%8B-MH344TA%2FA-668684489998340": {
+    "name": "Apple iPad Air M4 11吋 MH344TA/A, 紫色, 128GB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-11%E5%90%8B-MH344TA%2FA-668684489998340",
+    "base_price": 22900,
+    "last_price": 22900,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Air-M2-13%E5%90%8B-MV2T3TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-496882606325762": {
+    "name": "Apple iPad Air M2 13吋 MV2T3TA/A 原廠保固, 紫色, 1TB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Air-M2-13%E5%90%8B-MV2T3TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-496882606325762",
+    "base_price": 36099,
+    "last_price": 36099,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Air-M2-11%E5%90%8B-MUWQ3TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-496882606374914": {
+    "name": "Apple iPad Air M2 11吋 MUWQ3TA/A 原廠保固, 太空灰色, 1TB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Air-M2-11%E5%90%8B-MUWQ3TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-496882606374914",
+    "base_price": 33077,
+    "last_price": 33077,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-%E5%8F%B0%E7%81%A3%E5%85%AC%E5%8F%B8%E8%B2%A8-iPad-mini-A17-Pro-8.3%E5%90%8B-MXN83TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-499790349500417": {
+    "name": "Apple 台灣公司貨 iPad mini A17 Pro 8.3吋 MXN83TA/A 原廠保固, 128GB, Wi-Fi, 星光色",
+    "url": "https://www.tw.coupang.com/products/Apple-%E5%8F%B0%E7%81%A3%E5%85%AC%E5%8F%B8%E8%B2%A8-iPad-mini-A17-Pro-8.3%E5%90%8B-MXN83TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-499790349500417",
+    "base_price": 19900,
+    "last_price": 19900,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-11%E5%90%8B-MH354TA%2FA-668684489998340": {
+    "name": "Apple iPad Air M4 11吋 MH354TA/A, 太空灰色, 256GB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-11%E5%90%8B-MH354TA%2FA-668684489998340",
+    "base_price": 26990,
+    "last_price": 26990,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-2025-iPad-Air-M3-11%E5%90%8B-MCGA4TA%2FA-556722007556098": {
+    "name": "Apple 2025 iPad Air M3 11吋 MCGA4TA/A, 星光色, Wi-Fi + 行動網路(5G), 1TB",
+    "url": "https://www.tw.coupang.com/products/Apple-2025-iPad-Air-M3-11%E5%90%8B-MCGA4TA%2FA-556722007556098",
+    "base_price": 40700,
+    "last_price": 40700,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-2025-iPad-A16-11%E5%90%8B-MD4J4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-545450406936578": {
+    "name": "Apple 2025 iPad A16 11吋 MD4J4TA/A 原廠保固, 黃色, 256GB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-2025-iPad-A16-11%E5%90%8B-MD4J4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-545450406936578",
+    "base_price": 17888,
+    "last_price": 17888,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-11%E5%90%8B-MH364TA%2FA-668684489998340": {
+    "name": "Apple iPad Air M4 11吋 MH364TA/A, 藍色, 256GB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-11%E5%90%8B-MH364TA%2FA-668684489998340",
+    "base_price": 26400,
+    "last_price": 26400,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Air-M2-11%E5%90%8B-MUWE3TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-496882606374914": {
+    "name": "Apple iPad Air M2 11吋 MUWE3TA/A 原廠保固, 星光色, 128GB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Air-M2-11%E5%90%8B-MUWE3TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-496882606374914",
+    "base_price": 25143,
+    "last_price": 25143,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Pro-M5-11%E5%90%8B-%E5%B9%B3%E6%9D%BF%E9%9B%BB%E8%85%A6-626182907084845": {
+    "name": "Apple iPad Pro M5 11吋 平板電腦, 銀色, 256GB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Pro-M5-11%E5%90%8B-%E5%B9%B3%E6%9D%BF%E9%9B%BB%E8%85%A6-626182907084845",
+    "base_price": 37506,
+    "last_price": 37506,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Pro-M5-13%E5%90%8B-ME8G4TA%2FA-Nano-texture-%E7%8E%BB%E7%92%83-5G%E7%89%88-626252184420410": {
+    "name": "Apple iPad Pro M5 13吋 ME8G4TA/A Nano-texture 玻璃 5G版, 太空黑色, 1TB, Wi-Fi+行動網路",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Pro-M5-13%E5%90%8B-ME8G4TA%2FA-Nano-texture-%E7%8E%BB%E7%92%83-5G%E7%89%88-626252184420410",
+    "base_price": 82400,
+    "last_price": 82400,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Air-M2-13%E5%90%8B-MV2D3TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-496882606325762": {
+    "name": "Apple iPad Air M2 13吋 MV2D3TA/A 原廠保固, 太空灰色, 256GB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Air-M2-13%E5%90%8B-MV2D3TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-496882606325762",
+    "base_price": 37601,
+    "last_price": 37601,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-11%E5%90%8B-MH374TA%2FA-668684489998340": {
+    "name": "Apple iPad Air M4 11吋 MH374TA/A, 星光色, 256GB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-11%E5%90%8B-MH374TA%2FA-668684489998340",
+    "base_price": 26400,
+    "last_price": 26400,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Pro-M5-11%E5%90%8B-ME2X4TA%2FA-Nano-texture-%E7%8E%BB%E7%92%83-5G%E7%89%88-626252188614731": {
+    "name": "Apple iPad Pro M5 11吋 ME2X4TA/A Nano-texture 玻璃 5G版, 銀色, 1TB, Wi-Fi+行動網路",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Pro-M5-11%E5%90%8B-ME2X4TA%2FA-Nano-texture-%E7%8E%BB%E7%92%83-5G%E7%89%88-626252188614731",
+    "base_price": 71400,
+    "last_price": 71400,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-2025-iPad-A16-11%E5%90%8B-MD4P4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-545450406936578": {
+    "name": "Apple 2025 iPad A16 11吋 MD4P4TA/A 原廠保固, 粉紅色, 256GB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-2025-iPad-A16-11%E5%90%8B-MD4P4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-545450406936578",
+    "base_price": 18400,
+    "last_price": 18400,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-13%E5%90%8B-MH5U4TA%2FA-668617561391185": {
+    "name": "Apple iPad Air M4 13吋 MH5U4TA/A, 太空灰色, 256GB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-13%E5%90%8B-MH5U4TA%2FA-668617561391185",
+    "base_price": 33276,
+    "last_price": 33276,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-11%E5%90%8B-MH334TA%2FA-668684489998340": {
+    "name": "Apple iPad Air M4 11吋 MH334TA/A, 星光色, 128GB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-11%E5%90%8B-MH334TA%2FA-668684489998340",
+    "base_price": 22900,
+    "last_price": 22900,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Pro-M5-11%E5%90%8B-ME2W4TA%2FA-Nano-texture-%E7%8E%BB%E7%92%83-5G%E7%89%88-626252184436790": {
+    "name": "Apple iPad Pro M5 11吋 ME2W4TA/A Nano-texture 玻璃 5G版, 太空黑色, 1TB, Wi-Fi+行動網路",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Pro-M5-11%E5%90%8B-ME2W4TA%2FA-Nano-texture-%E7%8E%BB%E7%92%83-5G%E7%89%88-626252184436790",
+    "base_price": 71400,
+    "last_price": 71400,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-2025-iPad-A16-MD7F4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-557069555974144": {
+    "name": "Apple 2025 iPad A16 MD7F4TA/A 原廠保固, Wi-Fi 6 + 5G, 128GB, 銀色",
+    "url": "https://www.tw.coupang.com/products/Apple-2025-iPad-A16-MD7F4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-557069555974144",
+    "base_price": 19388,
+    "last_price": 19388,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-13%E5%90%8B-MH5P4TA%2FA-668617561391185": {
+    "name": "Apple iPad Air M4 13吋 MH5P4TA/A, 藍色, 128GB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-13%E5%90%8B-MH5P4TA%2FA-668617561391185",
+    "base_price": 29900,
+    "last_price": 29900,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-13%E5%90%8B-MH5N4TA%2FA-668617561391185": {
+    "name": "Apple iPad Air M4 13吋 MH5N4TA/A, 太空灰色, 128GB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-13%E5%90%8B-MH5N4TA%2FA-668617561391185",
+    "base_price": 29900,
+    "last_price": 29900,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Pro-M5-13%E5%90%8B-%E5%B9%B3%E6%9D%BF%E9%9B%BB%E8%85%A6-626182907117635": {
+    "name": "Apple iPad Pro M5 13吋 平板電腦, 太空黑色, 256GB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Pro-M5-13%E5%90%8B-%E5%B9%B3%E6%9D%BF%E9%9B%BB%E8%85%A6-626182907117635",
+    "base_price": 47846,
+    "last_price": 47846,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-2025-iPad-A16-MD7J4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-557069555974144": {
+    "name": "Apple 2025 iPad A16 MD7J4TA/A 原廠保固, Wi-Fi 6 + 5G, 128GB, 粉色",
+    "url": "https://www.tw.coupang.com/products/Apple-2025-iPad-A16-MD7J4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-557069555974144",
+    "base_price": 19388,
+    "last_price": 19388,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Pro-M5-11%E5%90%8B-MDWP4TA%2FA-626252184404028": {
+    "name": "Apple iPad Pro M5 11吋 MDWP4TA/A, 太空黑色, 1TB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Pro-M5-11%E5%90%8B-MDWP4TA%2FA-626252184404028",
+    "base_price": 57400,
+    "last_price": 57400,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-2025-iPad-A16-11%E5%90%8B-MD4Q4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-545450406936578": {
+    "name": "Apple 2025 iPad A16 11吋 MD4Q4TA/A 原廠保固, 銀色, 512GB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-2025-iPad-A16-11%E5%90%8B-MD4Q4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-545450406936578",
+    "base_price": 25400,
+    "last_price": 25400,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Pro-M5-13%E5%90%8B-ME7Y4TA%2FA-5G%E7%89%88-626252188516390": {
+    "name": "Apple iPad Pro M5 13吋 ME7Y4TA/A 5G版, 太空黑色, 512GB, Wi-Fi+行動網路",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Pro-M5-13%E5%90%8B-ME7Y4TA%2FA-5G%E7%89%88-626252188516390",
+    "base_price": 64900,
+    "last_price": 64900,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-5G%E7%89%88-13%E5%90%8B-MH9D4TA%2FA-668706736472147": {
+    "name": "Apple iPad Air M4 5G版 13吋 MH9D4TA/A, 太空灰色, 128GB, Wi-Fi+Cellular",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-5G%E7%89%88-13%E5%90%8B-MH9D4TA%2FA-668706736472147",
+    "base_price": 36900,
+    "last_price": 36900,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-2025-iPad-Air-M3-13%E5%90%8B-5G-MCJ84TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-545450419453952": {
+    "name": "Apple 2025 iPad Air M3 13吋 5G MCJ84TA/A 原廠保固, Wi-Fi, 256GB, 紫色",
+    "url": "https://www.tw.coupang.com/products/Apple-2025-iPad-Air-M3-13%E5%90%8B-5G-MCJ84TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-545450419453952",
+    "base_price": 33700,
+    "last_price": 33700,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-2025-iPad-A16-11%E5%90%8B-MD5A4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-545450406936578": {
+    "name": "Apple 2025 iPad A16 11吋 MD5A4TA/A 原廠保固, 黃色, 512GB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-2025-iPad-A16-11%E5%90%8B-MD5A4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-545450406936578",
+    "base_price": 23400,
+    "last_price": 23400,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-%E5%8F%B0%E7%81%A3%E5%85%AC%E5%8F%B8%E8%B2%A8-iPad-mini-A17-Pro-8.3%E5%90%8B-MXN73TA%2FA-499790349500417": {
+    "name": "Apple 台灣公司貨 iPad mini A17 Pro 8.3吋 MXN73TA/A, 128GB, Wi-Fi, 藍色",
+    "url": "https://www.tw.coupang.com/products/Apple-%E5%8F%B0%E7%81%A3%E5%85%AC%E5%8F%B8%E8%B2%A8-iPad-mini-A17-Pro-8.3%E5%90%8B-MXN73TA%2FA-499790349500417",
+    "base_price": 19588,
+    "last_price": 19588,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-5G%E7%89%88-13%E5%90%8B-MH9H4TA%2FA-668706736472147": {
+    "name": "Apple iPad Air M4 5G版 13吋 MH9H4TA/A, 太空灰色, 256GB, Wi-Fi+Cellular",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-5G%E7%89%88-13%E5%90%8B-MH9H4TA%2FA-668706736472147",
+    "base_price": 39900,
+    "last_price": 39900,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-2025-iPad-Air-M3-11%E5%90%8B-556722007556098": {
+    "name": "Apple 2025 iPad Air M3 11吋, 藍色, Wi-Fi + 行動網路(5G), 512GB",
+    "url": "https://www.tw.coupang.com/products/Apple-2025-iPad-Air-M3-11%E5%90%8B-556722007556098",
+    "base_price": 33700,
+    "last_price": 33700,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Pro-M5-13%E5%90%8B-ME7X4TA%2FA-5G%E7%89%88-630255240757291": {
+    "name": "Apple iPad Pro M5 13吋 ME7X4TA/A 5G版, 銀色, 256GB, Wi-Fi+行動網路",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Pro-M5-13%E5%90%8B-ME7X4TA%2FA-5G%E7%89%88-630255240757291",
+    "base_price": 57900,
+    "last_price": 57900,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-11%E5%90%8B-MH314TA%2FA-668684489998340": {
+    "name": "Apple iPad Air M4 11吋 MH314TA/A, 藍色, 128GB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-11%E5%90%8B-MH314TA%2FA-668684489998340",
+    "base_price": 22900,
+    "last_price": 22900,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-5G%E7%89%88-13%E5%90%8B-MH9K4TA%2FA-668617561391185": {
+    "name": "Apple iPad Air M4 5G版 13吋 MH9K4TA/A, 星光色, 256GB, Wi-Fi+Cellular",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-5G%E7%89%88-13%E5%90%8B-MH9K4TA%2FA-668617561391185",
+    "base_price": 39900,
+    "last_price": 39900,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-11%E5%90%8B-MH394TA%2FA-668684489998340": {
+    "name": "Apple iPad Air M4 11吋 MH394TA/A, 紫色, 256GB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-11%E5%90%8B-MH394TA%2FA-668684489998340",
+    "base_price": 26980,
+    "last_price": 26980,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-2025-iPad-A16-MD7N4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-557069555974144": {
+    "name": "Apple 2025 iPad A16 MD7N4TA/A 原廠保固, Wi-Fi 6 + 5G, 256GB, 粉色",
+    "url": "https://www.tw.coupang.com/products/Apple-2025-iPad-A16-MD7N4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-557069555974144",
+    "base_price": 23400,
+    "last_price": 23400,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-13%E5%90%8B-MH5Q4TA%2FA-668617561391185": {
+    "name": "Apple iPad Air M4 13吋 MH5Q4TA/A, 星光色, 128GB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-13%E5%90%8B-MH5Q4TA%2FA-668617561391185",
+    "base_price": 29900,
+    "last_price": 29900,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-11%E5%90%8B-MH3C4TA%2FA-668684489998340": {
+    "name": "Apple iPad Air M4 11吋 MH3C4TA/A, 藍色, 512GB, Wi-Fi",
+    "url": "https://www.tw.coupang.com/products/Apple-iPad-Air-M4-11%E5%90%8B-MH3C4TA%2FA-668684489998340",
+    "base_price": 34900,
+    "last_price": 34900,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-2025-iPad-Air-M3-11%E5%90%8B-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-557069547569154": {
+    "name": "Apple 2025 iPad Air M3 11吋 原廠保固, Wi-Fi, 512GB, 太空灰色",
+    "url": "https://www.tw.coupang.com/products/Apple-2025-iPad-Air-M3-11%E5%90%8B-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-557069547569154",
+    "base_price": 28700,
+    "last_price": 28700,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "iPad"
+  },
+  "https://www.tw.coupang.com/products/Apple-2026-MacBook-Air-13%E5%90%8B-M5%E6%99%B6%E7%89%87-10%E6%A0%B8%E5%BF%83CPU-8%E6%A0%B8%E5%BF%83GPU-674138762788886": {
+    "name": "Apple 2026 MacBook Air 13吋 M5晶片 10核心CPU 8核心GPU, 午夜色, A3449, 512GB, 16GB, MAC OS",
+    "url": "https://www.tw.coupang.com/products/Apple-2026-MacBook-Air-13%E5%90%8B-M5%E6%99%B6%E7%89%87-10%E6%A0%B8%E5%BF%83CPU-8%E6%A0%B8%E5%BF%83GPU-674138762788886",
+    "base_price": 40326,
+    "last_price": 40326,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "Mac"
+  },
+  "https://www.tw.coupang.com/products/Apple-MacBook-Neo-13%E5%90%8B-A18-Pro%E6%99%B6%E7%89%87-6%E6%A0%B8%E5%BF%83CPU%2F5%E6%A0%B8%E5%BF%83GPU-673727460982791": {
+    "name": "Apple MacBook Neo 13吋 A18 Pro晶片 6核心CPU/5核心GPU, 銀色, A3404, 512GB, 8GB, MAC OS",
+    "url": "https://www.tw.coupang.com/products/Apple-MacBook-Neo-13%E5%90%8B-A18-Pro%E6%99%B6%E7%89%87-6%E6%A0%B8%E5%BF%83CPU%2F5%E6%A0%B8%E5%BF%83GPU-673727460982791",
+    "base_price": 25123,
+    "last_price": 25123,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "Mac"
+  },
+  "https://www.tw.coupang.com/products/Apple-MacBook-Air-15.3%E5%90%8B-M3-8%E6%A0%B8%E5%BF%83CPU-10%E6%A0%B8%E5%BF%83GPU-MC9J4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-499004760621060": {
+    "name": "Apple MacBook Air 15.3吋 M3 8核心CPU 10核心GPU MC9J4TA/A 原廠保固, 銀色, 512GB, 24GB, MAC OS",
+    "url": "https://www.tw.coupang.com/products/Apple-MacBook-Air-15.3%E5%90%8B-M3-8%E6%A0%B8%E5%BF%83CPU-10%E6%A0%B8%E5%BF%83GPU-MC9J4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-499004760621060",
+    "base_price": 55300,
+    "last_price": 55300,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "Mac"
+  },
+  "https://www.tw.coupang.com/products/Apple-2026-MacBook-Air-15%E5%90%8B-M5%E6%99%B6%E7%89%87-10%E6%A0%B8%E5%BF%83CPU-10%E6%A0%B8%E5%BF%83GPU-674138796376120": {
+    "name": "Apple 2026 MacBook Air 15吋 M5晶片 10核心CPU 10核心GPU, 銀色, A3448, 512GB, 16GB, MAC OS",
+    "url": "https://www.tw.coupang.com/products/Apple-2026-MacBook-Air-15%E5%90%8B-M5%E6%99%B6%E7%89%87-10%E6%A0%B8%E5%BF%83CPU-10%E6%A0%B8%E5%BF%83GPU-674138796376120",
+    "base_price": 48403,
+    "last_price": 48403,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "Mac"
+  },
+  "https://www.tw.coupang.com/products/Apple-MacBook-Neo-13%E5%90%8B-A18-Pro%E6%99%B6%E7%89%87-6%E6%A0%B8%E5%BF%83CPU-5%E6%A0%B8%E5%BF%83GPU-673727460982791": {
+    "name": "Apple MacBook Neo 13吋 A18 Pro晶片 6核心CPU 5核心GPU, 靛青色, A3404, 256GB, 8GB, MAC OS",
+    "url": "https://www.tw.coupang.com/products/Apple-MacBook-Neo-13%E5%90%8B-A18-Pro%E6%99%B6%E7%89%87-6%E6%A0%B8%E5%BF%83CPU-5%E6%A0%B8%E5%BF%83GPU-673727460982791",
+    "base_price": 21755,
+    "last_price": 21755,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "Mac"
+  },
+  "https://www.tw.coupang.com/products/Apple-MacBook-Pro-M5-14%E5%90%8B-626251391615085": {
+    "name": "Apple MacBook Pro M5 14吋, 銀色, MDE14TA/A, 1TB, 16GB, MAC OS",
+    "url": "https://www.tw.coupang.com/products/Apple-MacBook-Pro-M5-14%E5%90%8B-626251391615085",
+    "base_price": 60900,
+    "last_price": 60900,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "Mac"
+  },
+  "https://www.tw.coupang.com/products/Apple-MacBook-Air-13.6%E5%90%8B-M3%E6%99%B6%E7%89%87-CPU8%E6%A0%B8%E5%BF%83-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-498269461331970": {
+    "name": "Apple MacBook Air 13.6吋 M3晶片 CPU8核心 原廠保固, 午夜色, MXCV3TA/A, 512GB, 16GB, MAC OS",
+    "url": "https://www.tw.coupang.com/products/Apple-MacBook-Air-13.6%E5%90%8B-M3%E6%99%B6%E7%89%87-CPU8%E6%A0%B8%E5%BF%83-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-498269461331970",
+    "base_price": 47411,
+    "last_price": 47411,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "Mac"
+  },
+  "https://www.tw.coupang.com/products/Apple-2026-MacBook-Pro-14%E5%90%8B-M5%E6%99%B6%E7%89%87-10%E6%A0%B8%E5%BF%83CPU-10%E6%A0%B8%E5%BF%83GPU-662067136479261": {
+    "name": "Apple 2026 MacBook Pro 14吋 M5晶片 10核心CPU 10核心GPU, 銀色, A3434, 1TB, 32GB, MAC OS",
+    "url": "https://www.tw.coupang.com/products/Apple-2026-MacBook-Pro-14%E5%90%8B-M5%E6%99%B6%E7%89%87-10%E6%A0%B8%E5%BF%83CPU-10%E6%A0%B8%E5%BF%83GPU-662067136479261",
+    "base_price": 76533,
+    "last_price": 76533,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "Mac"
+  },
+  "https://www.tw.coupang.com/products/Apple-MacBook-Pro-14%E5%90%8B-M5-Pro%E6%99%B6%E7%89%87-15%E6%A0%B8%E5%BF%83CPU-16%E6%A0%B8%E5%BF%83GPU-674052620206106": {
+    "name": "Apple MacBook Pro 14吋 M5 Pro晶片 15核心CPU 16核心GPU, 太空黑色, A3426, 1TB, 24GB, MAC OS",
+    "url": "https://www.tw.coupang.com/products/Apple-MacBook-Pro-14%E5%90%8B-M5-Pro%E6%99%B6%E7%89%87-15%E6%A0%B8%E5%BF%83CPU-16%E6%A0%B8%E5%BF%83GPU-674052620206106",
+    "base_price": 81400,
+    "last_price": 81400,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "Mac"
+  },
+  "https://www.tw.coupang.com/products/Apple-MacBook-Air-15.3%E5%90%8B-M3-8%E6%A0%B8%E5%BF%83CPU-10%E6%A0%B8%E5%BF%83GPU-MC9E4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-499004760621060": {
+    "name": "Apple MacBook Air 15.3吋 M3 8核心CPU 10核心GPU MC9E4TA/A 原廠保固, 銀色, 256GB, 16GB, MAC OS",
+    "url": "https://www.tw.coupang.com/products/Apple-MacBook-Air-15.3%E5%90%8B-M3-8%E6%A0%B8%E5%BF%83CPU-10%E6%A0%B8%E5%BF%83GPU-MC9E4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-499004760621060",
+    "base_price": 56773,
+    "last_price": 56773,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "Mac"
+  },
+  "https://www.tw.coupang.com/products/Apple-2026-MacBook-Air-13%E5%90%8B-M5%E6%99%B6%E7%89%87-10%E6%A0%B8%E5%BF%83CPU-10%E6%A0%B8%E5%BF%83GPU-674138775388238": {
+    "name": "Apple 2026 MacBook Air 13吋 M5晶片 10核心CPU 10核心GPU, 星光色, A3449, 1TB, 16GB, MAC OS",
+    "url": "https://www.tw.coupang.com/products/Apple-2026-MacBook-Air-13%E5%90%8B-M5%E6%99%B6%E7%89%87-10%E6%A0%B8%E5%BF%83CPU-10%E6%A0%B8%E5%BF%83GPU-674138775388238",
+    "base_price": 50730,
+    "last_price": 50730,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "Mac"
+  },
+  "https://www.tw.coupang.com/products/Apple-MacBook-Pro-16%E5%90%8B-M5-Pro%E6%99%B6%E7%89%87-18%E6%A0%B8%E5%BF%83CPU-20%E6%A0%B8%E5%BF%83GPU-674052620304440": {
+    "name": "Apple MacBook Pro 16吋 M5 Pro晶片 18核心CPU 20核心GPU, 太空黑色, A3428, 1TB, 24GB, MAC OS",
+    "url": "https://www.tw.coupang.com/products/Apple-MacBook-Pro-16%E5%90%8B-M5-Pro%E6%99%B6%E7%89%87-18%E6%A0%B8%E5%BF%83CPU-20%E6%A0%B8%E5%BF%83GPU-674052620304440",
+    "base_price": 94905,
+    "last_price": 94905,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "Mac"
+  },
+  "https://www.tw.coupang.com/products/Apple-MacBook-Pro-14%E5%90%8B-M5-Max%E6%99%B6%E7%89%87-18%E6%A0%B8%E5%BF%83CPU-32%E6%A0%B8%E5%BF%83GPU-674052611899449": {
+    "name": "Apple MacBook Pro 14吋 M5 Max晶片 18核心CPU 32核心GPU, 太空黑色, A3427, 2TB, 36GB, MAC OS",
+    "url": "https://www.tw.coupang.com/products/Apple-MacBook-Pro-14%E5%90%8B-M5-Max%E6%99%B6%E7%89%87-18%E6%A0%B8%E5%BF%83CPU-32%E6%A0%B8%E5%BF%83GPU-674052611899449",
+    "base_price": 135264,
+    "last_price": 135264,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "Mac"
+  },
+  "https://www.tw.coupang.com/products/Apple-iMac-24%E5%90%8B-M4-10%E6%A0%B8%E5%BF%83GPU-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-556963200925697": {
+    "name": "Apple iMac 24吋 M4 10核心GPU 原廠保固, 藍色, 16GB, 256GB, MAC OS, MWV13TA/A",
+    "url": "https://www.tw.coupang.com/products/Apple-iMac-24%E5%90%8B-M4-10%E6%A0%B8%E5%BF%83GPU-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-556963200925697",
+    "base_price": 56163,
+    "last_price": 56163,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "Mac"
+  },
+  "https://www.tw.coupang.com/products/Apple-iMac-24%E5%90%8B-M4-10%E6%A0%B8%E5%BF%83GPU-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-584975749464065": {
+    "name": "Apple iMac 24吋 M4 10核心GPU 原廠保固, MWV43TA/A, MAC OS, 16GB, 256GB, 粉紅色",
+    "url": "https://www.tw.coupang.com/products/Apple-iMac-24%E5%90%8B-M4-10%E6%A0%B8%E5%BF%83GPU-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-584975749464065",
+    "base_price": 56163,
+    "last_price": 56163,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "Mac"
+  },
+  "https://www.tw.coupang.com/products/Apple-iMac-%E5%A5%88%E7%B1%B3%E7%B4%8B%E7%90%86%E7%8E%BB%E7%92%83-24%E5%90%8B-M4-10%E6%A0%B8%E5%BF%83CPU%2F10%E6%A0%B8%E5%BF%83GPU-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-556963171631106": {
+    "name": "Apple iMac 奈米紋理玻璃 24吋 M4 10核心CPU/10核心GPU 原廠保固, 16GB, MD3H4TA/A, 256GB, MAC OS, 銀色",
+    "url": "https://www.tw.coupang.com/products/Apple-iMac-%E5%A5%88%E7%B1%B3%E7%B4%8B%E7%90%86%E7%8E%BB%E7%92%83-24%E5%90%8B-M4-10%E6%A0%B8%E5%BF%83CPU%2F10%E6%A0%B8%E5%BF%83GPU-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-556963171631106",
+    "base_price": 64900,
+    "last_price": 64900,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "Mac"
+  },
+  "https://www.tw.coupang.com/products/Apple-Mac-mini-M4-10%E6%A0%B8%E5%BF%83CPU%2F10%E6%A0%B8%E5%BF%83GPU-563199703220224": {
+    "name": "Apple Mac mini M4 10核心CPU/10核心GPU, 銀色, 16GB, 512GB, MAC OS, MU9E3TA/A",
+    "url": "https://www.tw.coupang.com/products/Apple-Mac-mini-M4-10%E6%A0%B8%E5%BF%83CPU%2F10%E6%A0%B8%E5%BF%83GPU-563199703220224",
+    "base_price": 31866,
+    "last_price": 31866,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "Mac"
+  },
+  "https://www.tw.coupang.com/products/Apple-MacBook-Air-15.3%E5%90%8B-M3-8%E6%A0%B8%E5%BF%83CPU-10%E6%A0%B8%E5%BF%83GPU-MC9G4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-499004760621060": {
+    "name": "Apple MacBook Air 15.3吋 M3 8核心CPU 10核心GPU MC9G4TA/A 原廠保固, 午夜色, 256GB, 16GB, MAC OS",
+    "url": "https://www.tw.coupang.com/products/Apple-MacBook-Air-15.3%E5%90%8B-M3-8%E6%A0%B8%E5%BF%83CPU-10%E6%A0%B8%E5%BF%83GPU-MC9G4TA%2FA-%E5%8E%9F%E5%BB%A0%E4%BF%9D%E5%9B%BA-499004760621060",
+    "base_price": 56773,
+    "last_price": 56773,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "Mac"
+  },
+  "https://www.tw.coupang.com/products/Apple-MacBook-Pro-14%E5%90%8B-M5-Pro%E6%99%B6%E7%89%87-18%E6%A0%B8%E5%BF%83CPU-20%E6%A0%B8%E5%BF%83GPU-674052611784763": {
+    "name": "Apple MacBook Pro 14吋 M5 Pro晶片 18核心CPU 20核心GPU, 太空黑色, A3426, 2TB, 24GB, MAC OS",
+    "url": "https://www.tw.coupang.com/products/Apple-MacBook-Pro-14%E5%90%8B-M5-Pro%E6%99%B6%E7%89%87-18%E6%A0%B8%E5%BF%83CPU-20%E6%A0%B8%E5%BF%83GPU-674052611784763",
+    "base_price": 99900,
+    "last_price": 99900,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "Mac"
+  },
+  "https://www.tw.coupang.com/products/Apple-MacBook-Pro-16%E5%90%8B-M5-Max%E6%99%B6%E7%89%87-18%E6%A0%B8%E5%BF%83CPU-32%E6%A0%B8%E5%BF%83GPU-673658770833412": {
+    "name": "Apple MacBook Pro 16吋 M5 Max晶片 18核心CPU 32核心GPU, 太空黑色, A3429, 2TB, 36GB, MAC OS",
+    "url": "https://www.tw.coupang.com/products/Apple-MacBook-Pro-16%E5%90%8B-M5-Max%E6%99%B6%E7%89%87-18%E6%A0%B8%E5%BF%83CPU-32%E6%A0%B8%E5%BF%83GPU-673658770833412",
+    "base_price": 138900,
+    "last_price": 138900,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "Mac"
+  },
+  "https://www.tw.coupang.com/products/PlayStation-PS5-Slim%E5%85%89%E7%A2%9F%E7%89%88-620855897669693": {
+    "name": "PlayStation PS5 Slim光碟版, CFI-2118A01",
+    "url": "https://www.tw.coupang.com/products/PlayStation-PS5-Slim%E5%85%89%E7%A2%9F%E7%89%88-620855897669693",
+    "base_price": 19380,
+    "last_price": 19380,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "PS5"
+  },
+  "https://www.tw.coupang.com/products/PlayStation-PS5-Slim-%E6%95%B8%E4%BD%8D%E7%89%88-620459796070429": {
+    "name": "PlayStation PS5 Slim 數位版, CFI-2118B01",
+    "url": "https://www.tw.coupang.com/products/PlayStation-PS5-Slim-%E6%95%B8%E4%BD%8D%E7%89%88-620459796070429",
+    "base_price": 17601,
+    "last_price": 17601,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "PS5"
+  },
+  "https://www.tw.coupang.com/products/PlayStation-PS5-Pro-%E6%95%B8%E4%BD%8D%E7%89%88%E4%B8%BB%E6%A9%9F-%E7%84%A1%E5%85%89%E7%A2%9F%E7%89%88-%E4%BF%9D%E5%9B%BA%E4%B8%80%E5%B9%B4-488508145713152": {
+    "name": "PlayStation PS5 Pro 數位版主機 無光碟版 保固一年, CFI-7022B01",
+    "url": "https://www.tw.coupang.com/products/PlayStation-PS5-Pro-%E6%95%B8%E4%BD%8D%E7%89%88%E4%B8%BB%E6%A9%9F-%E7%84%A1%E5%85%89%E7%A2%9F%E7%89%88-%E4%BF%9D%E5%9B%BA%E4%B8%80%E5%B9%B4-488508145713152",
+    "base_price": 29780,
+    "last_price": 29780,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "PS5"
+  },
+  "https://www.tw.coupang.com/products/PlayStation-%E5%8F%B0%E7%81%A3%E5%85%AC%E5%8F%B8%E8%B2%A8-PS5-Slim-%E5%85%89%E7%A2%9F%E7%89%88%E4%B8%BB%E6%A9%9F-%E4%BF%9D%E5%9B%BA%E4%B8%80%E5%B9%B4-465316727439361": {
+    "name": "PlayStation 台灣公司貨 PS5 Slim 光碟版主機 保固一年, CFI-2018A01",
+    "url": "https://www.tw.coupang.com/products/PlayStation-%E5%8F%B0%E7%81%A3%E5%85%AC%E5%8F%B8%E8%B2%A8-PS5-Slim-%E5%85%89%E7%A2%9F%E7%89%88%E4%B8%BB%E6%A9%9F-%E4%BF%9D%E5%9B%BA%E4%B8%80%E5%B9%B4-465316727439361",
+    "base_price": 19401,
+    "last_price": 19401,
+    "alerted": false,
+    "missing_checks": 0,
+    "category": "PS5"
+  }
+}
