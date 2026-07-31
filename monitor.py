@@ -20,8 +20,8 @@ HISTORY_FILE = ROOT / "history.json"
 BASE_URL = "https://www.tw.coupang.com"
 
 # ===== 只需要修改這裡 =====
-BOT_TOKEN = "8986934660:AAHHm0yfdQG9zfTbGJ6c4lvjvyg2NEARuJs"
-CHAT_ID = "971780123"
+BOT_TOKEN = os.getenv("TG_BOT_TOKEN", "")
+CHAT_ID = os.getenv("TG_CHAT_ID", "")
 CHECK_INTERVAL_SECONDS = 3600   # 每 1 小時檢查一次
 DROP_THRESHOLD_PERCENT = 50.0   # 跌價 50% 才通知
 DOUBLE_CHECK_SECONDS = 20       # 20 秒後再確認一次
