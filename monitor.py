@@ -2,13 +2,13 @@ from __future__ import annotations
 
 import json
 import os
-import sys
 import re
 import time
 from dataclasses import dataclass
 from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Any
+from zoneinfo import ZoneInfo
 from urllib.parse import quote_plus, urljoin, urlsplit, urlunsplit
 
 import requests
@@ -19,15 +19,20 @@ from playwright.sync_api import sync_playwright
 ROOT = Path(__file__).resolve().parent
 HISTORY_FILE = ROOT / "history.json"
 BASE_URL = "https://www.tw.coupang.com"
+TAIWAN_TZ = ZoneInfo("Asia/Taipei")
 
-# ===== 本機可直接填寫；GitHub Actions 會優先使用加密 Secrets =====
-BOT_TOKEN = os.getenv("TG_BOT_TOKEN", "請填入你的 Telegram Bot Token")
-CHAT_ID = os.getenv("TG_CHAT_ID", "請填入你的 Telegram Chat ID")
-CHECK_INTERVAL_SECONDS = 3600
-DROP_THRESHOLD_PERCENT = 50.0
-DOUBLE_CHECK_SECONDS = 20
-HEADLESS = False
-# =================================================================
+
+def taiwan_now() -> datetime:
+    return datetime.now(TAIWAN_TZ)
+
+# ===== 只需要修改這裡 =====
+BOT_TOKEN = os.getenv("TG_BOT_TOKEN", "")
+CHAT_ID = os.getenv("TG_CHAT_ID", "")
+CHECK_INTERVAL_SECONDS = 3600   # 每 1 小時檢查一次
+DROP_THRESHOLD_PERCENT = 50.0   # 跌價 50% 才通知
+DOUBLE_CHECK_SECONDS = 20       # 20 秒後再確認一次
+HEADLESS = True                 # GitHub Actions 必須使用無頭模式
+# ============================
 
 CONFIG = {
     "telegram": {"enabled": True, "bot_token": BOT_TOKEN, "chat_id": CHAT_ID},
@@ -116,7 +121,7 @@ def save_json(path: Path, value: Any) -> None:
 def log(message: str, *args) -> None:
     if args:
         message = message % args
-    print(f"[{datetime.now():%Y-%m-%d %H:%M:%S}] {message}")
+    print(f"[{taiwan_now():%Y-%m-%d %H:%M:%S}] {message}")
 
 
 def send_tg(config: dict[str, Any], message: str) -> bool:
@@ -151,6 +156,15 @@ def normalize_url(href: str | None) -> str:
 def clean_name(text: str) -> str:
     lines = [re.sub(r"\s+", " ", line).strip() for line in (text or "").splitlines()]
     return next((line for line in lines if line), "")
+
+
+def product_variant_key(url: str, name: str) -> str:
+    """
+    酷澎同一商品頁可能包含多個顏色／容量。
+    使用「商品網址＋規格名稱」避免不同 SKU 被網址去重合併。
+    """
+    normalized_name = re.sub(r"\s+", " ", name.casefold()).strip()
+    return f"{url}||{normalized_name}"
 
 
 def classify_product(name: str) -> str | None:
@@ -320,10 +334,18 @@ def collect_products_from_page(page) -> list[Product]:
             price, reference = choose_prices(category, text)
             if price is None:
                 continue
-            product = Product(url, name, price, url, category, reference)
-            old = found.get(url)
+            variant_key = product_variant_key(url, name)
+            product = Product(
+                variant_key,
+                name,
+                price,
+                url,
+                category,
+                reference,
+            )
+            old = found.get(variant_key)
             if old is None or product.price < old.price:
-                found[url] = product
+                found[variant_key] = product
         except PlaywrightError:
             continue
     return list(found.values())
@@ -471,7 +493,7 @@ def alert_message(item: dict[str, Any]) -> str:
 
 
 def run_once(config: dict[str, Any]) -> None:
-    now = datetime.now()
+    now = taiwan_now()
     monitor_cfg = config.get("monitor", {})
     threshold = float(monitor_cfg.get("drop_threshold_percent", 50.0))
     interval = int(monitor_cfg.get("check_interval_seconds", 3600))
@@ -519,13 +541,14 @@ def run_once(config: dict[str, Any]) -> None:
 def main() -> None:
     config = CONFIG
 
-    # GitHub Actions 每次由排程啟動，只執行一次。
-    if os.getenv("GITHUB_ACTIONS") == "true" or "--once" in sys.argv:
+    # GitHub Actions 每次排程只執行一次，完成後由下一次排程再啟動。
+    if os.getenv("GITHUB_ACTIONS", "").casefold() == "true":
         run_once(config)
         return
 
-    # Mac 本機執行時維持每小時循環。
+    # 在自己的 Mac 上執行時，仍維持每小時循環。
     interval = int(config.get("monitor", {}).get("check_interval_seconds", 3600))
+
     while True:
         run_once(config)
         try:
