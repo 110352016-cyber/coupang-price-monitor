@@ -29,8 +29,6 @@ jobs:
         run: |
           pip install -r requirements.txt
           playwright install chromium
-          sudo apt-get update
-          sudo apt-get install -y xvfb
 
       - name: Run Monitor
         env:
@@ -38,7 +36,7 @@ jobs:
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
           TZ: Asia/Taipei
         run: |
-          xvfb-run python monitor.py
+          python monitor.py
 
       - name: Commit history
         run: |
