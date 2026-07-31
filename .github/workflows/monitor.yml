@@ -2,8 +2,7 @@ name: Coupang Price Monitor
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "17 * * * *"
+ 
 
 concurrency:
   group: coupang-price-monitor
