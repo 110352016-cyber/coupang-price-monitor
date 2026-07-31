@@ -25,7 +25,7 @@ CHAT_ID = os.getenv("TG_CHAT_ID", "")
 CHECK_INTERVAL_SECONDS = 3600   # 每 1 小時檢查一次
 DROP_THRESHOLD_PERCENT = 50.0   # 跌價 50% 才通知
 DOUBLE_CHECK_SECONDS = 20       # 20 秒後再確認一次
-HEADLESS = False                # False 會看到瀏覽器，穩定後可改 True
+HEADLESS = True                # False 會看到瀏覽器，穩定後可改 True
 # ============================
 
 CONFIG = {
